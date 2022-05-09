@@ -1,0 +1,6 @@
+{
+    "name":"Hello world chrome extension",
+    "description":"an introductory chrome extension built by flynn.",
+    "version":"0.0.1",
+    "manifest_version":"3"
+}
